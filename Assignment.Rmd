@@ -216,5 +216,9 @@ exec(open("BPP.py").read())
 
 
 
+## GitHub
+For more info about the code, just check the repository at: 
+<https://github.com/Thore97/Bin-packing-problem>
+
 
 
